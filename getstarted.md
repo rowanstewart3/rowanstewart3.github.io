@@ -267,6 +267,10 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
      font-size: 12px
 }
 
+.gs-section-02 h3 { 
+     color: purple
+}
+
 .gs-section-03 p {
      font-style: italic
 }
