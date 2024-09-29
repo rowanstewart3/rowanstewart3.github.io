@@ -268,7 +268,7 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
 }
 
 .gs-section-02 h3 { 
-     color: purple
+     color: yellow
 }
 
 .gs-section-03 p {
