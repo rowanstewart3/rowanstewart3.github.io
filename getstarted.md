@@ -1,12 +1,8 @@
-<div section1>
-
- # Beautiful Jekyll
+# Beautiful Jekyll
 
 [![Gem Version](https://badge.fury.io/rb/beautiful-jekyll-theme.svg)](https://badge.fury.io/rb/beautiful-jekyll-theme)
 
 > By [Dean Attali](https://deanattali.com) &middot; [Demo](https://beautifuljekyll.com/)
-
-</div>
 
 **Beautiful Jekyll** is a ready-to-use template to help you create a beautiful website quickly. Perfect for personal sites, blogs, or simple project websites.  [Check out a demo](https://beautifuljekyll.com) of what you'll get after just two minutes.  You can also look at [my personal website](https://deanattali.com) or [my consulting website](https://attalitech.com) to see it in use, or see [examples of websites](http://beautifuljekyll.com/examples) other people created using this theme.
 
@@ -67,9 +63,13 @@ Scroll down to see the steps involved, but here is a 30-second video just as a r
 
 ![Installation steps](https://beautifuljekyll.com/assets/img/install-steps.gif)
 
+<div class="gs-section-01" markdown="1">
+
 ### 1. Fork this project
 
 Click on the __*Fork*__ button at the top right corner of this page. Forking means that you're copying this entire project and all its files into your account. Do not click on the __*Create fork*__ button on the next page yet.
+
+</div>
 
 ### 2. Rename the repository to `YOURUSERNAME.github.io`
 
